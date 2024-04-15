@@ -1,2 +1,13 @@
-body {background-color: #383d58;
-color: white;}
+
+
+
+style.css:
+header {
+    background-color: #424E61;
+    color: white;
+}
+
+.Cabecalho-imagem{width:20%}
+.cabecalho{background-color: #383d58;
+color: white;
+display: flex;}
